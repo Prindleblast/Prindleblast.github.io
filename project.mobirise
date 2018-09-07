@@ -31,7 +31,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
-            "fullScreen": true,
+            "fullScreen": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "showBullets": true,
@@ -72,7 +72,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/photo-6.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slideshow7-1600x800.png",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
