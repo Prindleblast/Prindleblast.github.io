@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Wagenblast Creations",
-    "currentPage": "sketchbook.html",
+    "currentPage": "About.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,7 +14,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 32,
+    "uniqCompNum": 40,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -212,6 +212,161 @@
             }
           },
           "_anchor": "menu-c"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Illustrations",
+          "meta": "The place to keep up on Hannah's finished pieces. Click on an image to view a larger version of it and open the slideshow gallery.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-w"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mikeored-triad-elaina-2000x2610.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mikeored-triad-elaina-2000x2610-800x1044.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mikeored-triad-nirana-2000x2563.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mikeored-triad-nirana-2000x2563-800x1025.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mikeored-triad-kaldr-2000x2592.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mikeored-triad-kaldr-2000x2592-800x1037.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cleo-2000x2967.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cleo-2000x2967-800x1187.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mikeored-final1-1992x3391.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mikeored-final1-1992x3391-800x1362.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mikeored-final2-copy-2000x3001.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mikeored-final2-copy-2000x3001-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mikeored-final3-1644x3254.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mikeored-final3-1644x3254-800x1583.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mikeored-final4-1742x3215.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mikeored-final4-1742x3215-800x1476.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mikeored-final5-2000x3188.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mikeored-final5-2000x3188-800x1275.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/queen-1883x3022.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/queen-1883x3022-800x1284.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jonathan001-lines-500x1074.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jonathan001-lines-500x1074-500x1074.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/korrasami-2000x1785.png",
+                "thumb": "@PROJECT_PATH@/assets/images/korrasami-2000x1785-800x714.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bookwyrm-2-1000x818.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bookwyrm-2-1000x818-800x654.jpg",
+                "alt": "",
+                "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/nexxus-valentine-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nexxus-valentine-2000x2000-800x800.jpg",
+                "alt": "",
+                "title": "",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/placeholder-image-600x400-600x400.png",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder-image-600x400-600x400-600x400.png",
+                "alt": "",
+                "title": "",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": true,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_anchor": "gallery2-x"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#da3e3a",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Follow Us",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/wagenblastcreations\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/wagenblastcreations\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-y"
         }
       ]
     },
@@ -262,6 +417,50 @@
             }
           },
           "_anchor": "menu-d"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "About the Artist",
+          "meta": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12"
+        },
+        {
+          "text": "<p>Info coming soon! Stay tuned!</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-13"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#da3e3a",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Follow Us",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/wagenblastcreations\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/wagenblastcreations\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-11"
         }
       ]
     },
@@ -385,6 +584,13 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-119-2000x2000-800x800.jpg",
                 "alt": "",
                 "title": "",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/placeholder-image-600x400.png",
+                "thumb": "@PROJECT_PATH@/assets/images/placeholder-image-600x400-600x400.png",
+                "alt": "",
+                "title": "",
                 "active": true
               }
             ]
@@ -396,6 +602,28 @@
           ],
           "_name": "gallery2",
           "_anchor": "gallery2-s"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#da3e3a",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Follow Us",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/wagenblastcreations\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/wagenblastcreations\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-10"
         }
       ]
     },
@@ -610,6 +838,28 @@
           ],
           "_name": "content5",
           "_anchor": "content5-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#da3e3a",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Follow Us",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/wagenblastcreations\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/wagenblastcreations\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-z"
         }
       ]
     }
