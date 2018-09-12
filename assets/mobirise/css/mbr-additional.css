@@ -1,3 +1,6 @@
+#slider-b H2 {
+  color: #da3e3a;
+}
 #menu-0 .navbar-toggler {
   color: #000;
 }
@@ -12,4 +15,7 @@
 }
 #menu-f .navbar-toggler {
   color: #000;
+}
+#content1-q DIV {
+  text-align: center;
 }
